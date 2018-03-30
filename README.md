@@ -1,8 +1,8 @@
 # Appointments Scheduler
-    A system to schedule and manage doctor's appointments
-    Provides a robust API for 3rd party vendors to interoperate with
-    Used to create appointments, update appointments and search existing appointments
-    Systems can subscribe for notifications when appointments are created or updated
+    Appointments Scheduler is a prototypical system which provides an API to create, update and track
+    patient appointments with their providers. This API can be used by 3rd party vendors to create
+    appointments, update appointments and search existing appointments. It provides a feature to
+    notify subscribers when appointments are created or updated.
 
 # Create/Update Request
     {
