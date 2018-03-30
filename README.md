@@ -34,3 +34,8 @@
         "fromDate" : "2018-04-01T00:00:00.000Z",
         "toDate" : "2018-04-30T23:00:00.000Z",
     }
+
+# Technologies Used
+    Java 1.8
+    MySQL 5.7
+    Spring Boot
